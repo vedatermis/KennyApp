@@ -12,6 +12,8 @@
 		BBE9BAB61F4427C00035CACB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBE9BAB41F4427C00035CACB /* Main.storyboard */; };
 		BBE9BAB81F4427C00035CACB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBE9BAB71F4427C00035CACB /* Assets.xcassets */; };
 		BBE9BABB1F4427C00035CACB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBE9BAB91F4427C00035CACB /* LaunchScreen.storyboard */; };
+		BBE9BAC31F44365C0035CACB /* Unknown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BBE9BAC21F44365C0035CACB /* Unknown.jpg */; };
+		BBE9BAC51F4438BE0035CACB /* kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = BBE9BAC41F4438BE0035CACB /* kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		BBE9BAB71F4427C00035CACB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBE9BABA1F4427C00035CACB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BBE9BABC1F4427C00035CACB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBE9BAC21F44365C0035CACB /* Unknown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpg; sourceTree = "<group>"; };
+		BBE9BAC41F4438BE0035CACB /* kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 		BBE9BAAF1F4427C00035CACB /* KennyApp */ = {
 			isa = PBXGroup;
 			children = (
+				BBE9BAC21F44365C0035CACB /* Unknown.jpg */,
+				BBE9BAC41F4438BE0035CACB /* kenny.png */,
 				BBE9BAB01F4427C00035CACB /* AppDelegate.swift */,
 				BBE9BAB21F4427C00035CACB /* ViewController.swift */,
 				BBE9BAB41F4427C00035CACB /* Main.storyboard */,
@@ -126,6 +132,8 @@
 			files = (
 				BBE9BABB1F4427C00035CACB /* LaunchScreen.storyboard in Resources */,
 				BBE9BAB81F4427C00035CACB /* Assets.xcassets in Resources */,
+				BBE9BAC31F44365C0035CACB /* Unknown.jpg in Resources */,
+				BBE9BAC51F4438BE0035CACB /* kenny.png in Resources */,
 				BBE9BAB61F4427C00035CACB /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
